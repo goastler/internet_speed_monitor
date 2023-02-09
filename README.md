@@ -5,4 +5,4 @@ Monitor internet speeds with periodic speed tests, printing a csv which can be p
 Copy files into a directory.
 
 ## Usage
-`bash internet.sh > output.csv`
+`bash internet.sh | tee output.csv`
